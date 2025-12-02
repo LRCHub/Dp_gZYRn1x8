@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "HETERODOXY",
+  "base_artist": "ELFENSJóN",
+  "createdAt": "2025-12-02T09:07:17.633539Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heterodoxy",
+      "artist": "Sheeno Mirin",
+      "has_synced": false,
+      "path": "select/01_Heterodoxy_Sheeno_Mirin.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heterodoxy",
+      "artist": "The Broken Horizon",
+      "has_synced": true,
+      "path": "select/02_Heterodoxy_The_Broken_Horizon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HETERODOXY",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_HETERODOXY_ELFENSJóN.txt"
+    }
+  ]
+}
